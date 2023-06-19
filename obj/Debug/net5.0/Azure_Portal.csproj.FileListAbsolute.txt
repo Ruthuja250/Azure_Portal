@@ -1,0 +1,14 @@
+C:\Users\YRUTHUJA\OneDrive - Capgemini\Documents\Azure_Portal\obj\Debug\net5.0\Azure_Portal.csproj.AssemblyReference.cache
+C:\Users\YRUTHUJA\OneDrive - Capgemini\Documents\Azure_Portal\obj\Debug\net5.0\Azure_Portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YRUTHUJA\OneDrive - Capgemini\Documents\Azure_Portal\obj\Debug\net5.0\Azure_Portal.AssemblyInfoInputs.cache
+C:\Users\YRUTHUJA\OneDrive - Capgemini\Documents\Azure_Portal\obj\Debug\net5.0\Azure_Portal.AssemblyInfo.cs
+C:\Users\YRUTHUJA\OneDrive - Capgemini\Documents\Azure_Portal\obj\Debug\net5.0\Azure_Portal.csproj.CoreCompileInputs.cache
+C:\Users\YRUTHUJA\OneDrive - Capgemini\Documents\Azure_Portal\obj\Debug\net5.0\Azure_Portal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YRUTHUJA\OneDrive - Capgemini\Documents\Azure_Portal\obj\Debug\net5.0\Azure_Portal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YRUTHUJA\source\repos\Azure_Portal\obj\Debug\net5.0\Azure_Portal.csproj.AssemblyReference.cache
+C:\Users\YRUTHUJA\source\repos\Azure_Portal\obj\Debug\net5.0\Azure_Portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YRUTHUJA\source\repos\Azure_Portal\obj\Debug\net5.0\Azure_Portal.AssemblyInfoInputs.cache
+C:\Users\YRUTHUJA\source\repos\Azure_Portal\obj\Debug\net5.0\Azure_Portal.AssemblyInfo.cs
+C:\Users\YRUTHUJA\source\repos\Azure_Portal\obj\Debug\net5.0\Azure_Portal.csproj.CoreCompileInputs.cache
+C:\Users\YRUTHUJA\source\repos\Azure_Portal\obj\Debug\net5.0\Azure_Portal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YRUTHUJA\source\repos\Azure_Portal\obj\Debug\net5.0\Azure_Portal.MvcApplicationPartsAssemblyInfo.cache
